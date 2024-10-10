@@ -3,7 +3,7 @@
 import math
 
 
-def sum_list(input_list : list[float]) -> float:
+def sum_list(input_list: list[float]) -> float:
     """ Function """
     sum = 0
     for i in input_list:
