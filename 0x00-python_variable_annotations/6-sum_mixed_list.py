@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """ Moudule """
-from typing import  Union, List
+from typing import Union, List
 
 
-def sum_mixed_list(mxd_lst: List[Union[int,float]]) -> float:
+def sum_mixed_list(mxd_lst: List[Union[int, float]]) -> float:
     """ Function """
     sum = 0
 
