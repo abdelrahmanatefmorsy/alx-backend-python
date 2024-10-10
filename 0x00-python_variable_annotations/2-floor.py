@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """ Moudule """
-
+import math
 
 def floor(n: float) -> int:
     """ Function """
-    return n // 1
+    return math.floor(n)
