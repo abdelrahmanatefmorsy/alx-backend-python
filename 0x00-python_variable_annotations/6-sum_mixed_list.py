@@ -3,7 +3,7 @@
 from typing import Callable, Iterator, Union, Optional, List
 
 
-def sum_mixed_list(mxd_lst: List[float,int]) -> float:
+def sum_mixed_list(mxd_lst: List[Union[float,int]]) -> float:
     """ Function """
     sum = 0
 
