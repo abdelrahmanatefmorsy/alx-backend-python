@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """ Moudule """
-import math
+
 
 
 def sum_list(input_list: list[float]) -> float:
