@@ -2,6 +2,6 @@
 """ Moudule """
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """ Function """
     return n // 1
